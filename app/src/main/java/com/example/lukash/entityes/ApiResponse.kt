@@ -1,4 +1,4 @@
-package com.example.lukash
+package com.example.lukash.entityes
 
 class ApiResponse {
     lateinit var result: List<Map<String, String>>

@@ -1,5 +1,6 @@
-package com.example.lukash
+package com.example.lukash.api
 
+import com.example.lukash.entityes.ApiResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
